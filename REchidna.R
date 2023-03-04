@@ -1,4 +1,4 @@
-## Setting you working directory
+## Setting your working directory
 ## Assuming you also have Echidna installed at "C:/Program Files/Echidna/v1.63/BIN/Echidna"
 dir="c:/Test"
 setwd(dir)
